@@ -1,10 +1,15 @@
-git init
-git status
-git add
-git commit -m
-git log
-git rm --cached
-git restore
-git log --oneline --pretty
-git config --global user.name ""
-git config --global user.email ""
+Git init
+Git status
+Git add <file name>
+Git commit -m <message to commit>
+Git restore <file name>
+Git log --oneline
+Git log --oneline --pretty
+Git checkout -b <new branch name>
+Git clone <repo link>
+Git remote -v
+Git push origin main
+Git fetch origin main
+Git pull origin main
+Git clone <link>
+Git frok <link>
